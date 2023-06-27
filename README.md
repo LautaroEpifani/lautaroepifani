@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lautaro</h1>
 <h3 align="center">I am a self-taught programmer with passion for both front-end and back-end. I am a fan of JavaScript and its various technologies, such as React, Node and so much more that i use to develop applications and web pages.</h3>
-<p align="right" width="400"> <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExejMwZThjN2xvcG1pNnhhem82bzEwd2Q1dTd4aThybnZ6NHJ3Y3MwNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="gif" /> </p>
+<p align="center" width="400"> <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExejMwZThjN2xvcG1pNnhhem82bzEwd2Q1dTd4aThybnZ6NHJ3Y3MwNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="gif" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lautaroepifani&label=Profile%20views&color=0e75b6&style=flat" alt="lautaroepifani" /> </p>
 
