@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lautaroepifani" alt="lautaroepifani" /></a> </p>
 
-- 🔭 I’m currently working on [Hotel Miranda Proyect](https://github.com/LautaroEpifani/miranda-dashboard)
+- 🔭 I’m currently working on Umaya web sites.
 
 - 🌱 I’m currently learning **React, Redux, Typescript, MERN stack, Figma**
 
