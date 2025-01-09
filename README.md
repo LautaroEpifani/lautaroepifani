@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lautaroepifani" alt="lautaroepifani" /></a> </p>
 
-- 🔭 I’m currently working on Umaya web sites.
+- 🔭 I’m currently working on projects.
 
-- 🌱 I’m currently learning **React, Redux, Typescript, MERN stack, Figma**
+- 🌱 I’m using **React, Redux, Typescript, MERN stack, Figma**
 
 - 👨‍💻 All of my projects are available at [https://lautaroepifaniportfolio.netlify.app/](https://lautaroepifaniportfolio.netlify.app/)
 
